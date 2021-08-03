@@ -1,11 +1,11 @@
-"use strict";
+'use strict';
 
 module.exports = {
-  FOO: "bar",
+  FOO: 'bar',
   PORT: 3000,
-  DB_HOST: "localhost",
-  DB_NAME: "sfmovies_development",
-  DB_PASSWORD: "",
+  DB_HOST: 'localhost',
+  DB_NAME: 'sfmovies_development',
+  DB_PASSWORD: '',
   DB_PORT: 5432,
-  DB_USER: "sfmovies_user",
+  DB_USER: 'sfmovies_user'
 };
