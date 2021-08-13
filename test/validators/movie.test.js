@@ -2,6 +2,7 @@
 
 const { expect } = require("chai");
 const { number } = require("joi");
+
 const Joi = require("joi");
 
 const MovieValidator = require("../../lib/validators/movie");
